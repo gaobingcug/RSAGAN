@@ -13,4 +13,4 @@ torchvision==0.10.0
 * Description: This dataset included a part of 3× test sets, which were obtained from TanDEM-X and Sentienl-2. The dataset contains a total of 100 256*256 data pairs. Each data pair contains one complete DEM, one Mask and one RS image. Complete DEM, remote sensing images can be obtained from https://www.intelligence-airbusds.com and https://earthexplorer.usgs.gov/, respectively.  
 * Download the dataset from the following link: [Baidu cloud disk](https://pan.baidu.com/s/12S4BwgRoJsZoD0uZrrkqGQ?pwd=lxum) (code:lxum)
 # Acknowledgement
-Thanks for the excellent work and codebase of TfaSR! 
+Thanks for the excellent work and codebase of GateConv! 
